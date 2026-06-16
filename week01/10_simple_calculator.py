@@ -19,6 +19,6 @@ elif operator=="/":
         print("错误:除数不能为0")
     else:
         result=num1/num2
-    print("计算结果是：",result)
+        print("计算结果是：",result)
 else:
     print("错误:不支持该运算符")
