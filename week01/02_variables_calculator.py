@@ -1,0 +1,8 @@
+num1=input("请输入第一个数字")
+num2=input("请输入第二个数字")
+num1=float(num1)
+num2=float(num2)
+print("加法",num1+num2)
+print("减法",num1-num2)
+print("乘法",num1*num2)
+print("除法",num1/num2)
